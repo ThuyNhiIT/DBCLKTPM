@@ -1,0 +1,6 @@
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781_Module03\PhamThiThuyNhi_21054781_Module03\bin\Debug\PhamThiThuyNhi_21054781_Module03.dll
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781_Module03\PhamThiThuyNhi_21054781_Module03\bin\Debug\PhamThiThuyNhi_21054781_Module03.pdb
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781_Module03\PhamThiThuyNhi_21054781_Module03\obj\Debug\Module03_Library.csproj.AssemblyReference.cache
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781_Module03\PhamThiThuyNhi_21054781_Module03\obj\Debug\Module03_Library.csproj.CoreCompileInputs.cache
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781_Module03\PhamThiThuyNhi_21054781_Module03\obj\Debug\PhamThiThuyNhi_21054781_Module03.dll
+D:\Desktop\HK1-N4\DBCLKTPM\ThucHanh\Module03\Code\PhamThiThuyNhi_21054781_Module03\PhamThiThuyNhi_21054781_Module03\obj\Debug\PhamThiThuyNhi_21054781_Module03.pdb
